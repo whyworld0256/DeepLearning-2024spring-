@@ -3,6 +3,8 @@
 
 授课老师：[王治国](https://math.scu.edu.cn/info/1013/9312.htm)
 
-
+- notes: 我的笔记
+- reference books: 参考教材
+- slides: 课件
 
  
