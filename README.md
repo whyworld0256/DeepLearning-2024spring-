@@ -5,6 +5,6 @@
 
 - [notes](notes): 我的笔记
 - [reference books](reference books): 参考教材
-- slides: 课件
+- [slides](slides): 课件
 
  
